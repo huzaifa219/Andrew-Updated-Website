@@ -1,0 +1,6 @@
+{
+  "name": "Mutual Success Partners",
+  "description": "Revenue growth consultancy and interactive revenue opportunity calculator and recovery assessment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
