@@ -20,8 +20,7 @@ export default defineConfig({
     dedupe: ["react", "react-dom"],
   },
   build: {
-    outDir: path.resolve(import.meta.dirname, "dist"),
-    emptyOutDir: true,
+    outDir: "dist",
   },
   server: {
     host: "0.0.0.0",
