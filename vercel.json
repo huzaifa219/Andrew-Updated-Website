@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "artifacts/mutual-success-partners/dist",
+  "installCommand": "npm install --legacy-peer-deps"
+}
