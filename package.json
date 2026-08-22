@@ -10,12 +10,12 @@
     "scripts"
   ],
   "scripts": {
-    "dev": "vite",
-    "build": "vite build --config artifacts/mutual-success-partners/vite.config.ts",
-    "preview": "vite preview",
-    "typecheck": "tsc --build",
-    "lint": "tsc --build"
-  },
+  "dev": "vite",
+  "build": "vite build --config artifacts/mutual-success-partners/vite.config.ts",
+  "preview": "vite preview",
+  "typecheck": "tsc --build",
+  "lint": "tsc --build"
+},
   "dependencies": {
     "@replit/connectors-sdk": "^0.4.1"
   },
